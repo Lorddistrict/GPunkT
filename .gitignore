@@ -1,0 +1,9 @@
+# Global
+.idea/
+.vscode/
+
+# JS
+node_modules/
+
+# App
+.env
