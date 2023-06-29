@@ -1,0 +1,11 @@
+# Global
+.idea/
+.vscode/
+Makefile
+
+# JS
+node_modules/
+
+# App
+.env
+.env.example
